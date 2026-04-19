@@ -1,0 +1,17 @@
+{
+  "name": "Wander Token List",
+  "timestamp": "2026-04-19T14:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["wander", "wan", "polygon", "rewards"],
+  "logoURI": "https://raw.githubusercontent.com/Szarbon/wander-assets/main/wan-logo-dark-256.png",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xd2EdBc627FE66225FAD1E10d885ab43EFd56139B",
+      "name": "Wander",
+      "symbol": "WAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Szarbon/wander-assets/main/wan-logo-dark-256.png"
+    }
+  ]
+}
